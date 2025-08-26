@@ -24,4 +24,6 @@ innovations: 1) a novel state-space model, the adaptive position residual state 
 安装causal_conv1d和mamba
 
 pip install -e causal_conv1d>=1.1.0
+
+
 pip install -e mamba-1p1p1
